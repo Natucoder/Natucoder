@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Natucoder
+- 👋 Hi, I’m @Natnael-dev
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java spring
+- 🌱 I’m currently learning Front-End Web Development
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me hailemichaelnat30@gmail.com
 
 <!---
